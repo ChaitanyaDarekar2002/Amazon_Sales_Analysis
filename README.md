@@ -2,7 +2,8 @@
 
 An interactive, multi-page **Power BI** dashboard that analyzes Amazon sales records from **2010 to 2016** across regions, product categories, order priorities, and sales channels (online vs. offline).
 
-![Dashboard Overview](screenshots/dashboard-1.png)
+<img width="1542" height="739" alt="image" src="https://github.com/user-attachments/assets/0a2dd5b1-d191-4b3a-bf1c-421f341e4b06" />
+
 
 ---
 
