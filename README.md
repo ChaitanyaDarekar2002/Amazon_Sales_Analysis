@@ -57,7 +57,9 @@ To turn raw sales transactions into clear, decision-ready insights by answering 
 - Donut chart: **revenue by channel** – Offline 57.59% (79.09M) vs. Online 42.41% (58.25M)
 
 ### Page 3 – Regional Revenue, Profit & Units
-![Page 3](screenshots/dashboard-3.png)
+
+<img width="1554" height="747" alt="image" src="https://github.com/user-attachments/assets/f534403f-ae74-4571-9808-a314b1512ff4" />
+
 
 - **Revenue by region** – Sub-Saharan Africa (40M), Europe (33M), Asia (21M)
 - **Profit by item type** – Cosmetics (14.56M) leads, followed by Household (7.41M) and Office Supplies (5.93M)
