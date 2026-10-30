@@ -36,7 +36,9 @@ To turn raw sales transactions into clear, decision-ready insights by answering 
 ## 🖼️ Dashboard Pages
 
 ### Page 1 – Cost, Priority & Channel Breakdown
-![Page 1](screenshots/dashboard-1.png)
+
+<img width="1542" height="739" alt="image" src="https://github.com/user-attachments/assets/5bbda330-bccd-49da-ae8b-8465409e5091" />
+
 
 - World map showing sales distribution by country
 - Stacked bar: item types by **order priority** (H, L, M, C)
