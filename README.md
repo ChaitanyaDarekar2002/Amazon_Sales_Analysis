@@ -47,7 +47,9 @@ To turn raw sales transactions into clear, decision-ready insights by answering 
 - Funnel chart: **total cost by item type** (Office Supplies, Household and Cosmetics lead)
 
 ### Page 2 – Trends & Revenue Mix
-![Page 2](screenshots/dashboard-2.png)
+
+<img width="1557" height="746" alt="image" src="https://github.com/user-attachments/assets/94dc0bea-020f-4920-a8df-f982e2b3bd57" />
+
 
 - Time-series line chart showing sales trend across 2010–2017
 - Donut chart: **revenue share by item type** (Cosmetics 36.6M, Office Supplies 30.59M, Household 29.89M)
